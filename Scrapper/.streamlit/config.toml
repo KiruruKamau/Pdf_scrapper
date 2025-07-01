@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 100
+headless = true
+runOnSave = true
+
+[theme]
+base = "dark"
+primaryColor = "#1E90FF"
+font = "sans serif"
