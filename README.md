@@ -91,9 +91,6 @@ Connect with me on kamaukiruru@gmail.com
 MIT — use it, build on it, just don’t sell it as-is.
 
 
----
-
-Let me know if you’d like me to include badge icons, add Docker setup instructions, or generate a one-liner project description for GitHub search results.
 
 
 
